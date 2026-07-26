@@ -1,1 +1,1 @@
-print("ыыы")
+print("DDD")
