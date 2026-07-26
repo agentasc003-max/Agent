@@ -3,7 +3,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 -- ====================== НАСТРОЙКИ ======================
 local ADMIN_IDS = {
-	123456789, -- <-- ЗАМЕНИ НА СВОЙ USER ID
+	2911971807, -- <-- ЗАМЕНИ НА СВОЙ USER ID
 	-- 987654321, -- можно добавить ещё админов
 }
 
